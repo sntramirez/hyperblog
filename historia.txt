@@ -1,1 +1,2 @@
-esta es una prueba de de git bash
+Esta es una prueba de de git bash, pero es el segundo
+ahora si funciona git 
