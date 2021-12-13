@@ -1,2 +1,4 @@
 Esta es una prueba de de git bash, pero es el segundo
 ahora si funciona git 
+
+cambios despues dit reset
