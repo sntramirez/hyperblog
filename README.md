@@ -1,2 +1,2 @@
 # hyperblog
-Curso de platzi git
+Curso de Platzi Git
