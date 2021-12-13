@@ -7,6 +7,10 @@ body {
     padding: 0;
 }
 
+#cabecera {
+    background-color: dodgerblue;
+}
+
 #container {
     width: 70%;
     padding: 1em;
